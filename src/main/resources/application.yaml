@@ -1,0 +1,6 @@
+aws:
+  access-key: <Put access key here>
+  secret-key: <Put secret key here>
+  region: us-east-1
+
+  bucket-name: spring-sample-storage
